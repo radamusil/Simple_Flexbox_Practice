@@ -35,8 +35,7 @@ nav {
 }
 article {
     width: 80vw;
-    padding-left: 5vw;
-    padding-top: 5vh;
+    padding: 5vw;
 }
 div {
     border-bottom: darkgrey solid 3px;
