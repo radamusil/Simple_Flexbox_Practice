@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    margin: 0;
+    height: 100vh;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    height: 60%;
+    align-items: stretch;
+}
+header {
+    background-color: rgb(90, 85, 85);
+    margin: 0;
+    height: 20%;
+    padding-left: 5vw;
+    padding-top: 5vh;
+}
+footer {
+    height: 20%;
+    background-color: lightgray;
+    margin: 0;
+    padding-left: 5vw;
+    padding-top: 5vh;
+}
+nav {
+    background-color: rgb(240, 130, 87);
+    width: 20vw;
+    margin: 0;
+    padding-left: 5vw;
+    padding-top: 5vh;
+}
+article {
+    width: 80vw;
+    padding-left: 5vw;
+    padding-top: 5vh;
+}
+div {
+    border-bottom: darkgrey solid 3px;
+}
+h1 {
+    color: white;
+    font-size: 5vh;
+    font-weight: bold;
+}
